@@ -6,7 +6,7 @@
 
 This project is the result of a group seminar completed during the mandatory **_Statistics_** undergraduate course in the spring of 2021. It investigates the correlation between the average height of a nation's citizens and its success in the **Summer Olympic Games (2016, Rio de Janeiro)** and **Winter Olympic Games (2018, Pyeongchang)**.
 
-The study uses data collection, descriptive statistics, and statistical tests to determine if a higher average citizen height correlates with a nation's success, measured by the number of Olympic medals won.
+The study uses data collection, descriptive statistics and statistical tests to determine if a higher average citizen height correlates with a nation's success, measured by the number of Olympic medals won.
 
 ## Contents
 
